@@ -21,8 +21,23 @@ Le programme en question est fourni avec des commentaires en francais car c'est 
 
 (/!\il se peut que rarement le programme bug si votre curseur est hors de lecran veuillez le redemarrer dans ce cas/!\)
 
-ligne de commande pour lancer le programme : 
-[Télécharger et exécuter le fichier HTML] https://D-TheProgrammer.github.io/AirSoccer_in_Js-Html
+<br>
+[!NOTE]
+
+
+Useful information that users should know, even when skimming content.
+
+
+[lien pour lancer le jeu en ligne ] : 
+https://d-theprogrammer.github.io/AirSoccer_in_Js-Html/
+
+[En local ] :
+il faut lancer un serveur Web local dans le répertoire contenant le fichier index.html à l’aide de la commande suivante :
+
+```bash
+python3 -m http.server 8000
+```
+Puis visualiser le résultat en ouvrant la page `http://localhost:8000/` dans un navigateur Web
 
 ### __[ENGLISH]__ 
 
