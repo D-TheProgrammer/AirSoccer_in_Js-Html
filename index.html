@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>TP2-MiniProjet-Hockey</title>
+    <style>
+        body {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #fondDemarrer, 
+        #monFond,
+        #but,
+        #poigneeJoueur,
+        #poigneeAdversaire,
+        #ballon,
+        #score
+        {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        #tutoriel
+        {
+            position: absolute;
+            top: 105%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .bouton {
+            background-color: #f4511e;
+            border: none;
+            border-radius: 12px;
+            color: white;
+            padding: 16px 32px;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            opacity: 0.6;
+            transition: 0.3s;
+            display: inline-block;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        #BoutonDemarrer:hover {
+            opacity: 1
+        }
+
+        #BoutonDemarrer{
+            position: absolute;
+            bottom: 50px;  
+            left: 50%;
+            transform: translate(-50%, -50%);
+            
+        }
+        
+    </style>
+</head>
+
+<body>
+    <canvas id="fondDemarrer" width="1020" height="480"></canvas>
+
+    <canvas id="monFond" width="1020" height="480"></canvas>
+    <canvas id="but" width="1020" height="480"></canvas>
+    <canvas id="poigneeJoueur" width="1020" height="480"></canvas>
+    <canvas id="poigneeAdversaire" width="1020" height="480"></canvas>
+    <canvas id="ballon" width="1020" height="480"></canvas>
+    <canvas id="score" width="1020" height="480"></canvas>
+    <canvas id="tutoriel" width="840" height="250"></canvas>
+
+    <button class="bouton" id="BoutonDemarrer">Demarrer</button>
+
+
+
+    <script type="module" src="./js/prgTP2.js"></script>
+</body>
+
+</html>
