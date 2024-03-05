@@ -1,7 +1,7 @@
 # AirSoccer_in_Js-Html
 [French] Projet AirSoccer en Javascript et Html
 
-[English]  Projet AirSoccer in Javascript et Html 
+[English]  Projet AirSoccer in Javascript and Html 
 
 
 ## [PRESENTATION]
@@ -21,24 +21,19 @@ Le programme en question est fourni avec des commentaires en francais car c'est 
 
 (/!\il se peut que rarement le programme bug si votre curseur est hors de lecran veuillez le redemarrer dans ce cas/!\)
 
-<br>
-[!NOTE]
+> [!NOTE]
+> [lien pour lancer le jeu en **ligne** ] : 
+> https://d-theprogrammer.github.io/AirSoccer_in_Js-Html/
 
+> [!TIP] 
+> il faut lancer un serveur Web **local** dans le répertoire contenant le fichier index.html à l’aide de la commande suivante :
+> ```bash
+> python3 -m http.server 8000
+> ```
+> Puis visualiser le résultat en ouvrant la page `http://localhost:8000/` dans un navigateur Web
 
-Useful information that users should know, even when skimming content.
-
-
-[lien pour lancer le jeu en ligne ] : 
-https://d-theprogrammer.github.io/AirSoccer_in_Js-Html/
-
-[En local ] :
-il faut lancer un serveur Web local dans le répertoire contenant le fichier index.html à l’aide de la commande suivante :
-
-```bash
-python3 -m http.server 8000
-```
-Puis visualiser le résultat en ouvrant la page `http://localhost:8000/` dans un navigateur Web
-
+ 
+---
 ### __[ENGLISH]__ 
 
 This project is a football game (a kind of air hockey). You control the red player with your mouse, and by moving the cursor, you can shoot the ball, the goal is obviously to have the best score against the computer.
@@ -51,10 +46,16 @@ The program in question is provided with comments in French because it is my nat
 
 (/!\the program may rarely bug if your cursor is off the screen, please restart it in this case/!\)
 
-command line to start the program : 
-```bash
-python3 projet_steganographie.py
-```
+> [!NOTE]
+> [link to start the game **online** ] : 
+> https://d-theprogrammer.github.io/AirSoccer_in_Js-Html/
+
+> [!TIP] 
+> you must launch a **local** Web server in the directory containing the index.html file using the following command:
+> ```bash
+> python3 -m http.server 8000
+> ```
+> Then view the result by opening the page `http://localhost:8000/` in a web browser
 
 ## [Gameplay]
 
