@@ -22,7 +22,7 @@ Le programme en question est fourni avec des commentaires en francais car c'est 
 (/!\il se peut que rarement le programme bug si votre curseur est hors de lecran veuillez le redemarrer dans ce cas/!\)
 
 ligne de commande pour lancer le programme : 
-[Télécharger et exécuter le fichier HTML](chemin_vers_votre_fichier.html)
+[Télécharger et exécuter le fichier HTML](index.html)
 
 ### __[ENGLISH]__ 
 
