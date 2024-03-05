@@ -1,4 +1,4 @@
-# AirSoccer_in_Js-Html
+# AirSoccer_in_Js-Html WITH AI
 [French] Projet AirSoccer en Javascript et Html avec IA
 
 [English]  Projet AirSoccer in Javascript and Html with AI
