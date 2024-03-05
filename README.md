@@ -1,7 +1,7 @@
 # AirSoccer_in_Js-Html
-[French] Projet AirSoccer en Javascript et Html
+[French] Projet AirSoccer en Javascript et Html avec IA
 
-[English]  Projet AirSoccer in Javascript and Html 
+[English]  Projet AirSoccer in Javascript and Html with AI
 
 
 ## [PRESENTATION]
@@ -11,7 +11,7 @@
 
 ### __[FRANCAIS]__ 
 
-Ce projet est un jeu de football (une sorte de air hockey). Vous contrôlez le joueur rouge avec votre souris, et en déplaçant le curseur, vous pourrez tirer la balle , le but est bien évidemment d'avoir le meilleur score contre l'ordinateur.
+Ce projet est un jeu de football (une sorte de air hockey). Vous contrôlez le joueur rouge avec votre souris, et en déplaçant le curseur, vous pourrez tirer la balle , le but est bien évidemment d'avoir le meilleur score contre l'ordinateur qui possède une IA.
 
 Il faut savoir que la balle rebondit sur les bords de l'écran, et que cette balle, après avoir été touchée, au bout d'un certain temps, commencera à ralentir (sauf si vous tirez de nouveau). De plus, plus vous tirez fort (c'est-à-dire en déplaçant le curseur rapidement), plus le ballon sera rapide.
 
@@ -36,7 +36,7 @@ Le programme en question est fourni avec des commentaires en francais car c'est 
 ---
 ### __[ENGLISH]__ 
 
-This project is a football game (a kind of air hockey). You control the red player with your mouse, and by moving the cursor, you can shoot the ball, the goal is obviously to have the best score against the computer.
+This project is a football game (a kind of air hockey). You control the red player with your mouse, and by moving the cursor, you can shoot the ball, the goal is obviously to have the best score against the computer which is using an AI.
 
 You should know that the ball bounces on the edges of the screen, and that this ball, after being hit, after a certain time, will begin to slow down (unless you shoot again). Additionally, the harder you pull (i.e. moving the cursor faster), the faster the ball will be.
 
