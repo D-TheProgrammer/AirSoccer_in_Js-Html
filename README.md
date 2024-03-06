@@ -23,7 +23,7 @@ Le programme en question est fourni avec des commentaires en francais car c'est 
 
 > [!NOTE]
 > [lien pour lancer le jeu en **ligne** ] : 
-> https://d-theprogrammer.github.io/AirSoccer_in_Js-Html/
+> https://d-theprogrammer.github.io/Game-AirSoccer_in_Js-Html_with_AI/
 
 > [!TIP] 
 > il faut lancer un serveur Web **local** dans le répertoire contenant le fichier index.html à l’aide de la commande suivante :
@@ -48,7 +48,7 @@ The program in question is provided with comments in French because it is my nat
 
 > [!NOTE]
 > [link to start the game **online** ] : 
-> https://d-theprogrammer.github.io/AirSoccer_in_Js-Html/
+> https://d-theprogrammer.github.io/Game-AirSoccer_in_Js-Html_with_AI/
 
 > [!TIP] 
 > you must launch a **local** Web server in the directory containing the index.html file using the following command:
