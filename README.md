@@ -3,7 +3,10 @@
 
 [English]  Projet AirSoccer in Javascript and Html with AI
 
-
+### SOMMAIRE / SUMMARY
+- Présentation en francais / Presentation in French
+- Présentation en anglais / Presentation in English
+  
 ## [PRESENTATION]
 <div align="center">
   <img width="863" alt="image" src="https://github.com/D-TheProgrammer/AirSoccer_in_Js-Html/assets/151149998/748ef9a9-ff68-4c39-86e9-eb5e5a821e39">
