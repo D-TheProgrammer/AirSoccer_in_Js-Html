@@ -10,6 +10,7 @@
 ### SOMMAIRE / SUMMARY
 - [Présentation en francais / Presentation in French](#francais)
 - [Présentation en anglais / Presentation in English](#english)
+- [Gameplay](#gameplay)
 
 ## [PRESENTATION]
 ### __[FRANCAIS]__ 
