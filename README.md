@@ -1,17 +1,17 @@
 # AirSoccer_in_Js-Html WITH AI
-[French] Projet AirSoccer en Javascript et Html avec IA
+[French] Projet AirSoccer en Javascript et Html avec IA  
+[English]  Projet AirSoccer in Javascript and Html with AI  
 
-[English]  Projet AirSoccer in Javascript and Html with AI
 
-### SOMMAIRE / SUMMARY
-- Présentation en francais / Presentation in French
-- Présentation en anglais / Presentation in English
-  
-## [PRESENTATION]
 <div align="center">
   <img width="863" alt="image" src="https://github.com/D-TheProgrammer/AirSoccer_in_Js-Html/assets/151149998/748ef9a9-ff68-4c39-86e9-eb5e5a821e39">
 </div>
 
+### SOMMAIRE / SUMMARY
+- [Présentation en francais / Presentation in French](#francais)
+- [Présentation en anglais / Presentation in English](#english)
+
+## [PRESENTATION]
 ### __[FRANCAIS]__ 
 
 Ce projet est un jeu de football (une sorte de air hockey). Vous contrôlez le joueur rouge avec votre souris, et en déplaçant le curseur, vous pourrez tirer la balle , le but est bien évidemment d'avoir le meilleur score contre l'ordinateur qui possède une IA.
